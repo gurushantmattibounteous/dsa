@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gurushantmattibounteous/dsa/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/gurushantmattibounteous/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gurushantmattibounteous/dsa/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/gurushantmattibounteous/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/gurushantmattibounteous/dsa/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -46,5 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gurushantmattibounteous/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/gurushantmattibounteous/dsa/tree/master/0904-fruit-into-baskets) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gurushantmattibounteous/dsa/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gurushantmattibounteous/dsa/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
