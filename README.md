@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gurushantmattibounteous/dsa/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/gurushantmattibounteous/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gurushantmattibounteous/dsa/tree/master/0169-majority-element) |
+| [0904-fruit-into-baskets](https://github.com/gurushantmattibounteous/dsa/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gurushantmattibounteous/dsa/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/gurushantmattibounteous/dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gurushantmattibounteous/dsa/tree/master/0169-majority-element) |
+| [0904-fruit-into-baskets](https://github.com/gurushantmattibounteous/dsa/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurushantmattibounteous/dsa/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/gurushantmattibounteous/dsa/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
