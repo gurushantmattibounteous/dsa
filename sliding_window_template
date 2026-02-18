@@ -1,0 +1,23 @@
+int left = 0;
+int windowValue = 0;  // sum / count / freq etc.
+int answer = Integer.MAX_VALUE;
+
+for (int right = 0; right < n; right++) {
+
+    // 1️⃣ Expand window
+    windowValue += arr[right];
+
+    // 2️⃣ Shrink while condition is valid
+    while (windowValue >= target) {
+
+        // 3️⃣ Update answer
+        answer = Math.min(answer, right - left + 1);
+
+        // 4️⃣ Shrink window
+        windowValue -= arr[left];
+        left++;
+    }
+}
+
+// 5️⃣ Final check
+return answer == Integer.MAX_VALUE ? 0 : answer;
