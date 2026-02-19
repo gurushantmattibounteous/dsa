@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gurushantmattibounteous/dsa/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/gurushantmattibounteous/dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gurushantmattibounteous/dsa/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/gurushantmattibounteous/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gurushantmattibounteous/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/gurushantmattibounteous/dsa/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/gurushantmattibounteous/dsa/tree/master/0904-fruit-into-baskets) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gurushantmattibounteous/dsa/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/gurushantmattibounteous/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gurushantmattibounteous/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gurushantmattibounteous/dsa/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/gurushantmattibounteous/dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gurushantmattibounteous/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/gurushantmattibounteous/dsa/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/gurushantmattibounteous/dsa/tree/master/1189-maximum-number-of-balloons) |
