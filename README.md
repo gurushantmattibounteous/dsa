@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gurushantmattibounteous/dsa/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/gurushantmattibounteous/dsa/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/gurushantmattibounteous/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gurushantmattibounteous/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gurushantmattibounteous/dsa/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/gurushantmattibounteous/dsa/tree/master/0209-minimum-size-subarray-sum) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gurushantmattibounteous/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gurushantmattibounteous/dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gurushantmattibounteous/dsa/tree/master/0169-majority-element) |
 ## Counting
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gurushantmattibounteous/dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gurushantmattibounteous/dsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/gurushantmattibounteous/dsa/tree/master/0141-linked-list-cycle) |
 ## Linked List
